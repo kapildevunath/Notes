@@ -1,1 +1,10 @@
 Class - container where we store a bunch of code
+
+static void main - called a method or function, this is another container where we can put code, this container is where we put all the code we want our program to execute.
+
+any code we put inside the below curly brackets gets executed.
+
+        static void Main(string[] args)
+        {
+        }
+
